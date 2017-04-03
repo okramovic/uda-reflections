@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+- Git starts to be able to track history of changes
+- i can revert to those changes
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+1) in S.A. nothing is definitely changed and can be reverted
