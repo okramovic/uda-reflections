@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+1) Very quick availability of only differing parts of code
+2) Quick view of what's been replaced in the code
+3) Quick view of where are changes localised (line number)
+4) Partially well structured/easy to read changed code "snippets" - but that could be done better still
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+1) if i do something that doesn't prove to be a good idea later in time, i can easily revert to version of code where change has not been made yet
+2) It enables me to compare functionality of all versions and see the progress (leads to more motivation?)
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Cons
+	1) in some cases some work might be lost before new version is added
+Pros
+	1) no over cluttering with more versions then whats practical
+	2) changes are logical and compact
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+1) git is probably made for programmers in mind and its common to work on one project using multiple files - one file changed without another one change
+		logically alos doesnt make much sense
+2) google docs is probably made just for single file every day office operations, like word etc where files are usually not inter-related
+
+
+How can you use the commands git log and git diff to view the history of files?
+1) it enables me to see all commits made and also to choose ones to compare
+
+How might using version control make you more confident to make changes that could break something?
+1) i know i can revert to version without it any time
+2) i know i can check where exactly in code did i introduce the bug
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+1) i want to start having my app's code versions tracked and described easily using github
+2) i want to be able to check changes in code of my app
