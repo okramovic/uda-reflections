@@ -1,1 +1,4 @@
-nono
+When would you want to use a remote repository rather than keeping all your work local?
+1) when i work with other people and not just myself - so that we can keep up to date with each other's work
+2) i trust the cloud servers not to break - more than my computer
+3) "safety copy" reasons
